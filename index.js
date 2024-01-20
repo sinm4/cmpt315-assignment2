@@ -16,5 +16,3 @@ module.exports = {
     winnersObject,
     biggestLoser,
 };
-
-console.log(module.exports)
