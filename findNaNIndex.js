@@ -1,9 +1,11 @@
+/** This returns the indices of NaN within an array. */
 const findNaNIndex = function(array) {
     const results = [];
 
-    for (let index = 0; index < array.length; index++) {
-        if (isNaN(array[index])) {
-            results.push(index);
+    // Loop through array and find index of NaN(s)
+    for (let i = 0; i < array.length; i++) {
+        if (isNaN(array[i])) {
+            results.push(i);
         }
     }
 
