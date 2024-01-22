@@ -2,7 +2,7 @@
 Assignment 2 of CMPT 315 to export functions in JS, using NPM.
 
 ## Purpose
-**_BEWARE:_ This library was published for learning purposes.
+**_BEWARE:_** This library was published for learning purposes.
 
 ## Usage
 **Install it:**
